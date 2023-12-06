@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Bm_0015</string>
+    <string name="dugme">Convertor</string>
+    <string name="dugme2">Random</string>
+    <string name="dugme3">SMS</string>
+    <string name="textad">ŞEVVAL YILDIZ</string>
+    <string name="textno">202013709163</string>
+    <string name="textName">0</string>
+    <string name="textSonuc">Sonuc</string>
+    <string name="textSbt">Decimal</string>
+    <string name="textName2">0</string>
+    <string name="textSonuc2">Sonuc</string>
+    <string name="textSbt2">Byte</string>
+    <string name="button2">Kelvin</string>
+    <string name="button1">Fahrenayt</string>
+    <string name="textSbt3">Celcius</string>
+    <string name="textSonuc3">Sonuc</string>
+    <string name="textName3">0</string>
+    <string name="textNameTel">Tel</string>
+    <string name="textNameMsj">Mesaj</string>
+    <string name="textNameSMS">SMS</string>
+    <string name="bttn_gndr">Gönder</string>
+    <string name="ınput1">Input</string>
+    <string name="ınput2">Input</string>
+
+
+
+
+
+
+
+</resources>
